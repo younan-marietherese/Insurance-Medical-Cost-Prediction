@@ -1,5 +1,7 @@
 # Insurance Medical Cost Prediction
 
+This project is part of the ZAKA Machine Learning Specialization and earned **Top 2** placement on the leaderboard.
+
 A machine learning project that predicts individual medical insurance charges and smoker status based on demographic and health-related data. The project walks through the complete Data Science Lifecycle using both custom and library-based implementations of regression and classification models.
 
 ---
